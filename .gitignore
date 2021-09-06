@@ -1,5 +1,10 @@
 Step1-Data/4-link_dict.pickle
-Step2-Signal/4-link_dict.pickle
+Step1-Data/4-Sector_Demeaning.ipynb
+Step1-Data/infodict.p
 Step1-Data/6-link_dict.pickle
+Step1-Data/8-link_dict.pickle
+Step2-Signal/4-link_dict.pickle
+Step2-Signal/7-link_dict.pickle
 Step2-Signal/6-link_dict.pickle
+Step2-Signal/1-whole_doc_scores.pickle
 Step3-Portfolio_Construction/1-horizon_rets_1a.pickle
